@@ -1,1 +1,1 @@
-Egerton University Sanatorium Outpatient records managemnt system.
+Egerton University Sanatorium Outpatient records management system.
