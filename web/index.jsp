@@ -1,7 +1,12 @@
+<%--
+  ~ Copyright (c) 2019
+  ~ Erick Ogaro
+  --%>
+
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>Reception</title>
+    <title>Log In</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <link rel="stylesheet" type="text/css" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.css"/>
     <link rel="stylesheet" type="text/css" media="all"

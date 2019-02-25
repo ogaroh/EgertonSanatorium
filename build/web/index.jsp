@@ -1,3 +1,8 @@
+<%--
+  ~ Copyright (c) 2019
+  ~ Erick Ogaro
+  --%>
+
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
