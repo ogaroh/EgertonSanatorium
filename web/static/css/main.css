@@ -1,0 +1,42 @@
+
+body {
+    background:#f7f7f7  url("../img/egu.png") no-repeat center;
+    background-size: 500px;
+    padding-top: 40px;
+}
+a{
+    text-decoration: none;
+    color: #f7f7f7;
+}
+
+
+.form-container {
+    margin: 120px auto auto;
+    width: inherit;
+}
+
+.form-container h2{
+    text-align: center;
+    padding: 20px;
+}
+
+/*.form-container,
+.doctor-container{
+    opacity: 1;
+}*/
+
+.test-positive::placeholder{
+    color: #23d160
+}
+
+.test-negative::placeholder{
+    color: #fe385f
+}
+
+#regNo{
+    text-transform: uppercase;
+}
+
+.invisible{
+    display: none !important;
+}
